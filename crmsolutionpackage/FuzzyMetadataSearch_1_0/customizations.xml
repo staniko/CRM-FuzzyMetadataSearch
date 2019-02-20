@@ -1,0 +1,173 @@
+<ImportExportXml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Entities></Entities>
+  <Roles></Roles>
+  <Workflows></Workflows>
+  <FieldSecurityProfiles></FieldSecurityProfiles>
+  <Templates />
+  <EntityMaps />
+  <EntityRelationships />
+  <OrganizationSettings />
+  <optionsets />
+  <WebResources>
+    <WebResource>
+      <WebResourceId>{e274fbb0-5234-e911-80f5-005056afa4ba}</WebResourceId>
+      <Name>thr_fuzzyMetadataSearch.html</Name>
+      <DisplayName>Fuzzy Metadata Search</DisplayName>
+      <WebResourceType>1</WebResourceType>
+      <IntroducedVersion>1.0</IntroducedVersion>
+      <IsEnabledForMobileClient>1</IsEnabledForMobileClient>
+      <IsAvailableForMobileOffline>0</IsAvailableForMobileOffline>
+      <DependencyXml>&lt;Dependencies&gt;&lt;Dependency componentType="WebResource"/&gt;&lt;/Dependencies&gt;</DependencyXml>
+      <IsCustomizable>1</IsCustomizable>
+      <CanBeDeleted>1</CanBeDeleted>
+      <IsHidden>0</IsHidden>
+      <FileName>/WebResources/thr_fuzzyMetadataSearchhtmlE274FBB0-5234-E911-80F5-005056AFA4BA</FileName>
+    </WebResource>
+    <WebResource>
+      <WebResourceId>{6de6e8f3-5234-e911-80f5-005056afa4ba}</WebResourceId>
+      <Name>thr_downloadMetadata.js</Name>
+      <WebResourceType>3</WebResourceType>
+      <IntroducedVersion>1.0</IntroducedVersion>
+      <IsEnabledForMobileClient>0</IsEnabledForMobileClient>
+      <IsAvailableForMobileOffline>0</IsAvailableForMobileOffline>
+      <DependencyXml>&lt;Dependencies&gt;&lt;Dependency componentType="WebResource"/&gt;&lt;/Dependencies&gt;</DependencyXml>
+      <IsCustomizable>1</IsCustomizable>
+      <CanBeDeleted>1</CanBeDeleted>
+      <IsHidden>0</IsHidden>
+      <FileName>/WebResources/thr_downloadMetadatajs6DE6E8F3-5234-E911-80F5-005056AFA4BA</FileName>
+    </WebResource>
+    <WebResource>
+      <WebResourceId>{0bb9e104-5334-e911-80f5-005056afa4ba}</WebResourceId>
+      <Name>thr_fuzzyMetadataSearch.js</Name>
+      <WebResourceType>3</WebResourceType>
+      <IntroducedVersion>1.0</IntroducedVersion>
+      <IsEnabledForMobileClient>0</IsEnabledForMobileClient>
+      <IsAvailableForMobileOffline>0</IsAvailableForMobileOffline>
+      <DependencyXml>&lt;Dependencies&gt;&lt;Dependency componentType="WebResource"/&gt;&lt;/Dependencies&gt;</DependencyXml>
+      <IsCustomizable>1</IsCustomizable>
+      <CanBeDeleted>1</CanBeDeleted>
+      <IsHidden>0</IsHidden>
+      <FileName>/WebResources/thr_fuzzyMetadataSearchjs0BB9E104-5334-E911-80F5-005056AFA4BA</FileName>
+    </WebResource>
+    <WebResource>
+      <WebResourceId>{b311391d-5334-e911-80f5-005056afa4ba}</WebResourceId>
+      <Name>thr_/lib_/bootstrap.css</Name>
+      <WebResourceType>2</WebResourceType>
+      <IntroducedVersion>1.0</IntroducedVersion>
+      <IsEnabledForMobileClient>0</IsEnabledForMobileClient>
+      <IsAvailableForMobileOffline>0</IsAvailableForMobileOffline>
+      <DependencyXml>&lt;Dependencies&gt;&lt;Dependency componentType="WebResource"/&gt;&lt;/Dependencies&gt;</DependencyXml>
+      <IsCustomizable>1</IsCustomizable>
+      <CanBeDeleted>1</CanBeDeleted>
+      <IsHidden>0</IsHidden>
+      <FileName>/WebResources/thr_lib_bootstrapcssB311391D-5334-E911-80F5-005056AFA4BA</FileName>
+    </WebResource>
+    <WebResource>
+      <WebResourceId>{93ab5638-5334-e911-80f5-005056afa4ba}</WebResourceId>
+      <Name>thr_/lib_/bootstrap.js</Name>
+      <WebResourceType>3</WebResourceType>
+      <IntroducedVersion>1.0</IntroducedVersion>
+      <IsEnabledForMobileClient>0</IsEnabledForMobileClient>
+      <IsAvailableForMobileOffline>0</IsAvailableForMobileOffline>
+      <DependencyXml>&lt;Dependencies&gt;&lt;Dependency componentType="WebResource"/&gt;&lt;/Dependencies&gt;</DependencyXml>
+      <IsCustomizable>1</IsCustomizable>
+      <CanBeDeleted>1</CanBeDeleted>
+      <IsHidden>0</IsHidden>
+      <FileName>/WebResources/thr_lib_bootstrapjs93AB5638-5334-E911-80F5-005056AFA4BA</FileName>
+    </WebResource>
+    <WebResource>
+      <WebResourceId>{7f1fba44-5334-e911-80f5-005056afa4ba}</WebResourceId>
+      <Name>thr_/lib_/findSolutions.js</Name>
+      <WebResourceType>3</WebResourceType>
+      <IntroducedVersion>1.0</IntroducedVersion>
+      <IsEnabledForMobileClient>0</IsEnabledForMobileClient>
+      <IsAvailableForMobileOffline>0</IsAvailableForMobileOffline>
+      <DependencyXml>&lt;Dependencies&gt;&lt;Dependency componentType="WebResource"/&gt;&lt;/Dependencies&gt;</DependencyXml>
+      <IsCustomizable>1</IsCustomizable>
+      <CanBeDeleted>1</CanBeDeleted>
+      <IsHidden>0</IsHidden>
+      <FileName>/WebResources/thr_lib_findSolutionsjs7F1FBA44-5334-E911-80F5-005056AFA4BA</FileName>
+    </WebResource>
+    <WebResource>
+      <WebResourceId>{191a7e4f-5334-e911-80f5-005056afa4ba}</WebResourceId>
+      <Name>thr_/lib_/jquery.js</Name>
+      <WebResourceType>3</WebResourceType>
+      <IntroducedVersion>1.0</IntroducedVersion>
+      <IsEnabledForMobileClient>0</IsEnabledForMobileClient>
+      <IsAvailableForMobileOffline>0</IsAvailableForMobileOffline>
+      <DependencyXml>&lt;Dependencies&gt;&lt;Dependency componentType="WebResource"/&gt;&lt;/Dependencies&gt;</DependencyXml>
+      <IsCustomizable>1</IsCustomizable>
+      <CanBeDeleted>1</CanBeDeleted>
+      <IsHidden>0</IsHidden>
+      <FileName>/WebResources/thr_lib_jqueryjs191A7E4F-5334-E911-80F5-005056AFA4BA</FileName>
+    </WebResource>
+    <WebResource>
+      <WebResourceId>{a44a985a-5334-e911-80f5-005056afa4ba}</WebResourceId>
+      <Name>thr_/lib_/SDK.MetaData.js</Name>
+      <WebResourceType>3</WebResourceType>
+      <IntroducedVersion>1.0</IntroducedVersion>
+      <IsEnabledForMobileClient>0</IsEnabledForMobileClient>
+      <IsAvailableForMobileOffline>0</IsAvailableForMobileOffline>
+      <DependencyXml>&lt;Dependencies&gt;&lt;Dependency componentType="WebResource"/&gt;&lt;/Dependencies&gt;</DependencyXml>
+      <IsCustomizable>1</IsCustomizable>
+      <CanBeDeleted>1</CanBeDeleted>
+      <IsHidden>0</IsHidden>
+      <FileName>/WebResources/thr_lib_SDKMetaDatajsA44A985A-5334-E911-80F5-005056AFA4BA</FileName>
+    </WebResource>
+    <WebResource>
+      <WebResourceId>{f565b368-5334-e911-80f5-005056afa4ba}</WebResourceId>
+      <Name>thr_/lib_/SDK.Publish.js</Name>
+      <WebResourceType>3</WebResourceType>
+      <IntroducedVersion>1.0</IntroducedVersion>
+      <IsEnabledForMobileClient>0</IsEnabledForMobileClient>
+      <IsAvailableForMobileOffline>0</IsAvailableForMobileOffline>
+      <DependencyXml>&lt;Dependencies&gt;&lt;Dependency componentType="WebResource"/&gt;&lt;/Dependencies&gt;</DependencyXml>
+      <IsCustomizable>1</IsCustomizable>
+      <CanBeDeleted>1</CanBeDeleted>
+      <IsHidden>0</IsHidden>
+      <FileName>/WebResources/thr_lib_SDKPublishjsF565B368-5334-E911-80F5-005056AFA4BA</FileName>
+    </WebResource>
+    <WebResource>
+      <WebResourceId>{bd7f9a72-5334-e911-80f5-005056afa4ba}</WebResourceId>
+      <Name>thr_/lib_/selectize.default.css</Name>
+      <WebResourceType>2</WebResourceType>
+      <IntroducedVersion>1.0</IntroducedVersion>
+      <IsEnabledForMobileClient>0</IsEnabledForMobileClient>
+      <IsAvailableForMobileOffline>0</IsAvailableForMobileOffline>
+      <DependencyXml>&lt;Dependencies&gt;&lt;Dependency componentType="WebResource"/&gt;&lt;/Dependencies&gt;</DependencyXml>
+      <IsCustomizable>1</IsCustomizable>
+      <CanBeDeleted>1</CanBeDeleted>
+      <IsHidden>0</IsHidden>
+      <FileName>/WebResources/thr_lib_selectizedefaultcssBD7F9A72-5334-E911-80F5-005056AFA4BA</FileName>
+    </WebResource>
+    <WebResource>
+      <WebResourceId>{212f277e-5334-e911-80f5-005056afa4ba}</WebResourceId>
+      <Name>thr_/lib_/selectize.js</Name>
+      <WebResourceType>3</WebResourceType>
+      <IntroducedVersion>1.0</IntroducedVersion>
+      <IsEnabledForMobileClient>0</IsEnabledForMobileClient>
+      <IsAvailableForMobileOffline>0</IsAvailableForMobileOffline>
+      <DependencyXml>&lt;Dependencies&gt;&lt;Dependency componentType="WebResource"/&gt;&lt;/Dependencies&gt;</DependencyXml>
+      <IsCustomizable>1</IsCustomizable>
+      <CanBeDeleted>1</CanBeDeleted>
+      <IsHidden>0</IsHidden>
+      <FileName>/WebResources/thr_lib_selectizejs212F277E-5334-E911-80F5-005056AFA4BA</FileName>
+    </WebResource>
+    <WebResource>
+      <WebResourceId>{f97f158a-5334-e911-80f5-005056afa4ba}</WebResourceId>
+      <Name>thr_/lib_/spinner.html</Name>
+      <WebResourceType>1</WebResourceType>
+      <IntroducedVersion>1.0</IntroducedVersion>
+      <IsEnabledForMobileClient>1</IsEnabledForMobileClient>
+      <IsAvailableForMobileOffline>0</IsAvailableForMobileOffline>
+      <DependencyXml>&lt;Dependencies&gt;&lt;Dependency componentType="WebResource"/&gt;&lt;/Dependencies&gt;</DependencyXml>
+      <IsCustomizable>1</IsCustomizable>
+      <CanBeDeleted>1</CanBeDeleted>
+      <IsHidden>0</IsHidden>
+      <FileName>/WebResources/thr_lib_spinnerhtmlF97F158A-5334-E911-80F5-005056AFA4BA</FileName>
+    </WebResource>
+  </WebResources>
+  <Languages>
+    <Language>1033</Language>
+  </Languages>
+</ImportExportXml>
