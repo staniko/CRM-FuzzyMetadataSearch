@@ -7,3 +7,8 @@ This is where the FuzzyMetadataSearch comes into play.
 By simply typing a part of the entity and attribute name the fuzzy search finds your attribute for you and opens the CRM configuration page for this attribute.
 
 In a first step the FuzzyMetadataSearch will only return attributes, later all accessible configuration of the solution explorer will be included. E.g. views, masks, etc.
+
+# Installation
+To install this solution, just zip the solution folder under crmsolutionpackage/ and import it into Dynamics CRM.
+
+Tested with Dynamics CRM 8.2.
